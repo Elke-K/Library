@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Bib_Elke_Keysers.BookSerie">
+    <Position X="17.75" Y="1.5" Width="4" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Bib_Elke_Keysers.BookSerie.BookSeriesInfoOptions">
+        <TypeIdentifier>
+          <NewMemberFileName>BookSerie.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAQAAAAEAAAAFAAAAAAAAEA=</HashCode>
+      <FileName>BookSerie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bib_Elke_Keysers.LibraryItem">
+    <Position X="13.25" Y="1" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Bib_Elke_Keysers.LibraryItem.GenreEnum">
+        <TypeIdentifier>
+          <NewMemberFileName>LibraryItem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAgIAAAAAIAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LibraryItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bib_Elke_Keysers.Library">
+    <Position X="23" Y="0.75" Width="6.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAEAAAAAShQAAACyAIBwAoAAEAEggAgCGMAAAAGk=</HashCode>
+      <FileName>Library.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bib_Elke_Keysers.Magazine">
+    <Position X="6.25" Y="9" Width="6.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAABBAAAAAAgAAAAAAAAAAQAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Magazine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bib_Elke_Keysers.ReadingRoomItem">
+    <Position X="13.25" Y="6.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABQAAAAEAgCAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReadingRoomItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bib_Elke_Keysers.NewsPaper">
+    <Position X="17.75" Y="9" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAgAAAAAAACAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewsPaper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bib_Elke_Keysers.Program">
+    <Position X="0.5" Y="9" Width="5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAggAQAAAAACIAQAQABBAAAAAAIgAGBAAAACA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bib_Elke_Keysers.Book">
+    <Position X="0.5" Y="0.5" Width="10.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Bib_Elke_Keysers.Book.EditionsEnum" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Book.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Bib_Elke_Keysers.Book.BookInfoOptions" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Book.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAwUAQhAFDEMAgAUFAIABAAAAAAAAgAAAEIAAAAM=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
